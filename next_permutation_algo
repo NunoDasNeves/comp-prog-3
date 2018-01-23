@@ -1,0 +1,38 @@
+a  b  c  d  e
+ <  <  <  <
+a  b  c  e  d
+ <  <  <  >
+a  b  d  c  e
+ <  <  >  <
+a  b  d  e  c
+ <  <  <  >
+a  b  e  c  d
+ <  <  >  <
+a  b  e  d  c
+ <  <  >  >
+a  c  b  d  e
+
+acbde
+acbed
+acdbe
+acdeb
+acebd
+
+
+bkslwta
+bkstalw
+
+kskksjj
+ksksjjk
+ksksjkj
+kskskjj
+kssjjkk
+
+
+
+rfjefmff
+
+iterate from right until i < i + 1
+iterate from right until j > i
+swap i and j
+reverse i+1 through end of list (by swapping)
